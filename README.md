@@ -1,2 +1,2 @@
 # js-playground
-Ejercicios de JavaScript para practicar
+Ejercicio de api de rick and morty
